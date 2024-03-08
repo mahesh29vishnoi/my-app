@@ -24,7 +24,7 @@ const App = () => {
                 fontSize: "300%",
                 position: "absolute",
                 width: "100%",
-                height: "100%",
+                height: "110%",
                 top: "-15%",
             }}
         >
